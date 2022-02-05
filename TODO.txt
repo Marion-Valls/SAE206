@@ -1,4 +1,3 @@
-- commenter code fractale generation image
 - commenter code mot fibo + algo tracage turtle
 - continuer rapport (ajouter explication des formules, particulierement pr cantor)
 - cantor -> PIL pour generer image
