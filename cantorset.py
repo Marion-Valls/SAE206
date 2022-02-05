@@ -40,13 +40,10 @@ def cantorSet(filename):
                     ligne[i+j]=0
         #on affiche la nouvelle ligne dans la console (cette ligne peut être supprimée, elle permet simplement d'observer le résultat dans la console)        
         print(ligne)
-        #convertir la liste en chaine de caracteres
-        lignestr = convertListToStr(ligne)
-        #ecriture dans le fichier
-        f.write(lignestr+"\n")
+        #ecriture dans le fichier : on peut aussi convertir la liste directement à l'aide d'un join
+        f.write(''.join(list(map(str,ligne)))+"\n")
     #a la fin du programme, on ferme le fichier
     f.close()
      
-cantorSet("testCantor.txt")
-
+cantorSet("testCantor293.txt")
 
