@@ -16,3 +16,6 @@ python3 -m pip install --upgrade Pillow
 pip install turtle
 ```
 - timeit (pour connaitre le temps d'éxéxution d'une partie de code):
+```python
+pip install pytest-timeit
+```
