@@ -9,6 +9,7 @@ Cepandant, si vous utilisez un environnement de programmation différent, voici 
 - PIL (génération d'images):  
 ```python
 python3 -m pip install --upgrade pip  
-python3 -m pip install --upgrade Pillow```
+python3 -m pip install --upgrade Pillow
+```
 - Turtle (dessin d'images progressivement):
 - timeit (pour connaitre le temps d'éxéxution d'une partie de code):
