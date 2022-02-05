@@ -12,4 +12,7 @@ python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade Pillow
 ```
 - Turtle (dessin d'images progressivement):
+```bash
+$ pip install turtle
+```
 - timeit (pour connaitre le temps d'éxéxution d'une partie de code):
