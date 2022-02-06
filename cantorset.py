@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb  4 22:24:12 2022
-
 @author: Goujon William - Lahaie Thibaut - Saadi Nils - Valls Marion
 
 @description : ce fichier contient le code permettant de génerer le set de Cantor(une fractale) puis de l'implémenter dans un fichier et génerer une image et une musique fractales
