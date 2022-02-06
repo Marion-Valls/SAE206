@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Feb  5 11:01:11 2022
-
 @author: Goujon William - Lahaie Thibaut - Saadi Nils - Valls Marion
 
 @description : ce fichier contient le code pour générer la fractale de fibonacci sous forme d'une image. 
