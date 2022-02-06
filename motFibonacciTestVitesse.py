@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb  4 22:24:12 2022
-
 @author: Goujon William - Lahaie Thibaut - Saadi Nils - Valls Marion
 
 @description : ce fichier contient le code permettant de comparer les temps d'éxécution de génération du mot de Fibonacci (la méthode récursive est plus efficace)'   
