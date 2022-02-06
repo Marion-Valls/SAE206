@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Feb 1 18:24:12 2022
-
 @author: Goujon William - Lahaie Thibaut - Saadi Nils - Valls Marion
 
 @description : ce fichier contient le code générant le mot de fibonacci et un algorithme permettant de modéliser une fractale à partir de ce mot
