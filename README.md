@@ -5,7 +5,7 @@ auteurs : Goujon William - Lahaie Thibaut - Saadi Nils - Valls Marion
 date : 05/02/2022  
 
 *Dans le cadre d'un projet (SAE 2.06) recoupant mathématiques et informatique nous avons choisi de développer un ensemble d'activités portant sur les fractales.  
-Les fractales sont des figures infiniment morcelées dont les détails se répète en zoomant sur la figure.  
+Les fractales sont des figures infiniment morcelées dont les détails se répètent en zoomant sur la figure.  
 Elles ont de nombreuses propriétés liées à leur symétrie et autres caractéristiques.  
 Nous avons réalisé des scripts en Python afin de construire des fractales en utilisant deux concepts mathématiques : le mot de Fibonacci et le set de Cantor.  
 Afin de développer une approche plus ludique de ces notions nous avons cherché à avoir un maximum de rendus graphiques. Notre objectif est également de générer un rythme à partir du set de Cantor.*
