@@ -28,5 +28,3 @@ pip install pytest-timeit
 ```
 
 
-
-Hey c'est Nils
