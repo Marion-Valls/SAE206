@@ -24,6 +24,9 @@ Ce dossier comporte :
 - le code du set de Cantor avec implémentation dans un fichier (**)
 - le code du set de Cantor avec génération d'un son (**)
 
+### Dossier Presentation_orale
+Ce dossier comporte le diaporama pour la présentation orale de cette SAE.  
+
 ## Modules utilisés
 Nous avons utilisé l'IDE Spyder où la plupart des modules en Python sont déjà installés.
 Cepandant, si vous utilisez un environnement de programmation différent, voici les modules utilisés associés aux commandes pour les installer:
