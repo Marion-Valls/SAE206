@@ -10,6 +10,12 @@ Elles ont de nombreuses propriétés liées à leur symétrie et autres caracté
 Nous avons réalisé des scripts en Python afin de construire des fractales en utilisant deux concepts mathématiques : le mot de Fibonacci et le set de Cantor.  
 Afin de développer une approche plus ludique de ces notions nous avons cherché à avoir un maximum de rendus graphiques. Notre objectif est également de générer un rythme à partir du set de Cantor.*
 
+## Composition du dossier
+### Dossier Documents
+Ce dossier comporte le journal de bord et l'analyse du travail réalisé (*Compte_Rendu_G1B.pdf*), les recherches effectuées sur le sujet traité (*Documentation_G1B.pdf*), le TD (*TD_G1B*) et sa correction (*TD_Correction_G1B*).  
+### Dossier Codes
+
+
 ## Modules utilisés
 Nous avons utilisé l'IDE Spyder où la plupart des modules en Python sont déjà installés.
 Cepandant, si vous utilisez un environnement de programmation différent, voici les modules utilisés associés aux commandes pour les installer:
