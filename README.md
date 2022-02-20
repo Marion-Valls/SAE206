@@ -18,11 +18,11 @@ Ce dossier comporte :
 - le TD (*TD_G1B*) et sa correction (*TD_Correction_G1B*).  
 ### Dossier Codes
 Ce dossier comporte :
-- le code de la fractale issue du mot de Fibonacci avec Turtle (**)
-- le code de la fractale issue du mot de Fibonacci avec PIL (**)
-- le comparaison des vitesses d'exécution des algorithmes pour générer le mot de Fibonacci (**)
-- le code du set de Cantor avec implémentation dans un fichier (**)
-- le code du set de Cantor avec génération d'un son (**)
+- le code de la fractale issue du mot de Fibonacci avec Turtle (*fractale.py*)
+- le code de la fractale issue du mot de Fibonacci avec PIL (*fractale_img.py*)
+- le comparaison des vitesses d'exécution des algorithmes pour générer le mot de Fibonacci (*testExecutionFractale.py*)
+- le code du set de Cantor avec implémentation dans un fichier (*cantorset.py*)
+- le code du set de Cantor avec génération d'un son (*fractToSong.py*)
 
 ### Dossier Presentation_orale
 Ce dossier comporte le diaporama pour la présentation orale de cette SAE.  
