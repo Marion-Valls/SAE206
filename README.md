@@ -12,7 +12,10 @@ Afin de développer une approche plus ludique de ces notions nous avons cherché
 
 ## Composition du dossier
 ### Dossier Documents
-Ce dossier comporte le journal de bord et l'analyse du travail réalisé (*Compte_Rendu_G1B.pdf*), les recherches effectuées sur le sujet traité (*Documentation_G1B.pdf*), le TD (*TD_G1B*) et sa correction (*TD_Correction_G1B*).  
+Ce dossier comporte : 
+- le journal de bord et l'analyse du travail réalisé (*Compte_Rendu_G1B.pdf*)
+- les recherches effectuées sur le sujet traité (*Documentation_G1B.pdf*)
+- le TD (*TD_G1B*) et sa correction (*TD_Correction_G1B*).  
 ### Dossier Codes
 
 
